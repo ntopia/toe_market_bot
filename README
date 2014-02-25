@@ -1,0 +1,17 @@
+The bot
+
+It crawls TOE-market-page (http://toez2dj.net/zeroboard/zboard.php?id=c_market)
+and alarms in IRC or twitter.
+
+
+now running on
+
+python 2.7.3
+python packages
+- beautifulsoup4 4.2.1
+- httplib2 0.8
+
+
+thanks to
+- https://github.com/puzzlet/feedex
+
